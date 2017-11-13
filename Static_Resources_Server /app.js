@@ -108,5 +108,3 @@ function send404(res, pathname) {
 // Expires / Cache-Control: max-age=xxxx：设置文件的最大缓存时间。
 // Last-Modified / If-Modified-Since：把浏览器端文件缓存的最后修改时间一起发到服务器去，服务器会把这个时间与服务器上实际文件的最后修改时间进行比较。如果没有修改，则返回304状态码。
 // ETag头：用来判断文件是否已经被修改，区分不同语言和Session等等。
-// http://www.dengzhr.com/node-js/1199
-// http://www.jiangkunlun.com/2012/09/nodejs_%E9%9D%99%E6%80%81_%E6%9C%8D%E5%8A%A1%E5%99%A8/
