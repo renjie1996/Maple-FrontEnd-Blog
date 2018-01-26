@@ -1,5 +1,4 @@
 const { createServer } = require('http');
-const { spawn } = require('child_process');
 const HOOK_PORT = 5151;
 const createHandler = require('github-webhook-handler');
 const { runCommand } = require('./runbash');
