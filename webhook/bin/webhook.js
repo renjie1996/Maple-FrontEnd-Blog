@@ -5,11 +5,11 @@ const createHandler = require('github-webhook-handler');
 
 const handler = createHandler({
   path: '/webhook',
-  // token: 'mytoken' // maybe there is no token
+  secret: 'mytoken' // maybe there is no token
 });
 
 createServer((req, res) => {
-  handle(req, res, e => {
+  handler(req, res, e => {
     res.statusCode = 404;
     res.end('no such location');
   });
