@@ -1,10 +1,11 @@
 const { spawn } = require('child_process');
 
-function runCommand( cmd, args, callback ) {
-  var child = spawn( cmd, args )
-  var response = ''
-  child.stdout.on('data', function( buffer ){ response += buffer.toString() })
-  child.stdout.on('end', function(){ callback( response ) })
+function runCommand(cmd, args, callback) {
+  console.log(cmd, args)
+  const child = spawn( cmd, args )
+  const response = ''
+  child.stdout.on('data', buffer => { response += buffer.toString() })
+  child.stdout.on('end', () => { callback( response ) })
 };
 
 
