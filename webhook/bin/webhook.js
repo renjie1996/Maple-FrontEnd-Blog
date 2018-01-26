@@ -15,7 +15,7 @@ createServer((req, res) => {
   });
 }).listen(HOOK_PORT, () => console.log(`listening on port ${HOOK_PORT}`));
 
-
+// 执行pull命令
 handler.on('error', err => console.error('Error:', err.message));
 handler.on('push', event => {
   console.log(`Received a push event for ${event.payload.repository.name} to ${event.payload.ref}`);
