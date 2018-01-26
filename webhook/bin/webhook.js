@@ -24,6 +24,8 @@ handler.on('push', event => {
     console.log(txt);
   })
 });
+
+// issue
 handler.on('issues', event => {
   console.log('Received an issue event for %s action=%s: #%d %s',
     event.payload.repository.name,
