@@ -6,7 +6,7 @@ const { runCommand } = require('./runbash');
 
 const handler = createHandler({
   path: '/webhook',
-  secret: 'mytoken' // maybe there is no token
+  secret: 'mytoken' // maybe there is no token;
 });
 
 createServer((req, res) => {
