@@ -8,7 +8,6 @@ function runCommand(cmd, args, callback) {
   child.stdout.on('end', () => { callback( response ) })
 };
 
-
 module.exports = {
   runCommand,
 }
