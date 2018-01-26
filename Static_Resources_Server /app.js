@@ -31,6 +31,7 @@ const app = http.createServer((req, res) => {
         // 文件读取出错
         res.writeHead(500, {"Content-Type": "text/plain"})
         res.end(err)
+        return
     } else {
 
         // Expires 和 Cache-Control 缓存
@@ -69,6 +70,7 @@ const app = http.createServer((req, res) => {
         res.writeHead(200, {"Content-Type": mime.getType(extname) })
         res.write(file, "binary")
         res.end()
+        return
     }
   })
 
