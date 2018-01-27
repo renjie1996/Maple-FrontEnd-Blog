@@ -28,6 +28,7 @@ handler.on('push', event => {
 });
 
 
+
 // issue钩子
 handler.on('issues', event => {
   console.log('Received an issue event for %s action=%s: #%d %s',
