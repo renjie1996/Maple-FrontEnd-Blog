@@ -33,5 +33,7 @@ handler.on('issues', event => {
     event.payload.action,
     event.payload.issue.number,
     event.payload.issue.title)
-})
+});
+
+// test hook
 
