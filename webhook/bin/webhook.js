@@ -20,7 +20,7 @@ createServer((req, res) => {
 handler.on('error', err => console.error('Error:', err.message));
 handler.on('push', event => {
   console.log(`Received a push event for ${event.payload.repository.name} to ${event.payload.ref}`);
-  runCommand('sh', [`${__dirname}/cicd.sh`], txt => {
+  runCommand('sh', [`${__dirname}/cicd.sh`, `${__dirname}/restart.sh`], txt => {
     console.log('切出子进程进行自动pull');
     console.log(txt);
   })
