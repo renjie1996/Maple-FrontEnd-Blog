@@ -38,3 +38,4 @@ handler.on('issues', event => {
     event.payload.issue.number,
     event.payload.issue.title)
 });
+
