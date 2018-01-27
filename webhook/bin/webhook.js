@@ -3,17 +3,13 @@ const HOOK_PORT = 5151;
 const createHandler = require('github-webhook-handler');
 const { runCommand } = require('./runbash');
 
-const handler = createHandler({
-  path: '/webhook',
-  secret: 'mytoken' // maybe there is no token;
-});
+const handler = createHandler({ path: '/webhook', secret: 'mytoken' });  // maybe there is no token;
 
-createServer((req, res) => {
-  handler(req, res, e => {
+createServer((req, res) => handler(req, res, e => {
     res.statusCode = 404;
     res.end('no such location');
-  });
-}).listen(HOOK_PORT, () => console.log(`listening on port ${HOOK_PORT}`));
+  })
+).listen(HOOK_PORT, () => console.log(`listening on port ${HOOK_PORT}`));
 
 // 执行pull命令
 // 执行
