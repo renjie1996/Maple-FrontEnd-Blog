@@ -4,6 +4,9 @@
    <a href=""><img id="like" src="https://img.shields.io/badge/掘金-755喜欢-blue.svg" alt="Build Status"></a>
    <a href=""><img id="read" src="https://img.shields.io/badge/掘金-1.93k阅读-blue.svg" alt="Build Status"></a>
   </p>
+ <p align="center">
+   <img id="pic" src="https://user-images.githubusercontent.com/25033420/40115981-cfdc725e-5944-11e8-967e-512b6ac2f92a.png">
+ </p>
   
 ### 2017
   
