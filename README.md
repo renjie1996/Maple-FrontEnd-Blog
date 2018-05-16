@@ -14,4 +14,4 @@
 ### 2018
  - Koa2源码分析(中间件模式)：[Koa2源码分析](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/6)
  - git-webhook实现简单的自动化部署：[webhook + node-spider](https://github.com/renjie1996/node-acfun-spider)
- - [【代码片段】如何确定一个元素是HTML节点和HTML列表]（https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/8)
+ - [【代码片段】如何确定一个元素是HTML节点和HTML列表](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/8)
