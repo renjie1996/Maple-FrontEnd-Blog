@@ -11,7 +11,7 @@
 ### 2017
   
  - <a href=""><img id="read" src="https://img.shields.io/badge/设计模式-blue.svg" alt="Build Status"></a> [设计模式-单例模式](https://juejin.im/post/5920fe8844d904006cc24e1f)
- - <a href=""><img id="read" src="https://img.shields.io/badge/问题排查-blue.svg" alt="Build Status"></a> [JavaScript-TDZ & 变量提升](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/1)
+ - <a href=""><img id="read" src="https://img.shields.io/badge/问题排查-red.svg" alt="Build Status"></a> [JavaScript-TDZ & 变量提升](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/1)
  - <a href=""><img id="read" src="https://img.shields.io/badge/性能优化-green.svg" alt="Build Status"></a> [性能优化-Node & Http缓存](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/2)
 
 ### 2018
