@@ -22,3 +22,4 @@
  - <a href=""><img id="read" src="https://img.shields.io/badge/黑魔法-black.svg" alt="Build Status"></a> [CSS黑魔法-感知DOM resize的骚操作](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/12)
  - <a href=""><img id="read" src="https://img.shields.io/badge/性能优化-green.svg" alt="Build Status"></a> [Webpack性能优化最佳实践及多种选型的对比](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/13)
  - <a href=""><img id="read" src="https://img.shields.io/badge/最佳实践-yellow.svg" alt="Build Status"></a> [自动化部署实践-使用chai + karma + travis做持续测试](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/14)
+  - <a href=""><img id="read" src="https://img.shields.io/badge/代码质量-pink.svg" alt="Build Status"></a> [Flow类型检查实践](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/14)
