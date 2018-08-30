@@ -26,4 +26,5 @@
   - <a href=""><img id="read" src="https://img.shields.io/badge/最佳实践-yellow.svg" alt="Build Status"></a> [Node cluster 负载均衡实践(writing...)](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/16)
   - <a href=""><img id="read" src="https://img.shields.io/badge/语言特性-orange.svg" alt="Build Status"></a> [函数柯里化(writing...)](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/16)
   - <a href=""><img id="read" src="https://img.shields.io/badge/代码质量-pink.svg" alt="Build Status"></a> [Css代码规范-csscomb(writing...)](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/15)
-   - <a href=""><img id="read" src="https://img.shields.io/badge/CodeReview-purple.svg" alt="Build Status"></a> [CodeReview-如何写出优雅的Vue.js代码（二）如何优雅地封装前后端交互逻辑](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/11)
+   - <a href=""><img id="read" src="https://img.shields.io/badge/CodeReview-purple.svg" alt="Build Status"></a> [CodeReview-如何写出优雅的Vue.js代码（二）如何优雅地封装前后端交互逻辑(writing...)](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/11)
+   - <a href=""><img id="read" src="https://img.shields.io/badge/性能优化-green.svg" alt="Build Status"></a> [Web-Worker突破前端的性能瓶颈(writing...)](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/13)
