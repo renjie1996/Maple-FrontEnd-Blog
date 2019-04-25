@@ -34,4 +34,5 @@
 - <a href=""><img id="read" src="https://img.shields.io/badge/个人-gray.svg" alt="Build Status"></a> [2019年度规划](https://github.com/renjie1996/Maple-FrontEnd-Blog/issues/1)
 - <a href=""><img id="read" src="https://img.shields.io/badge/最佳实践-yellow.svg" alt="Build Status"></a> [React Hooks起手式 实现一个「高颜值实用」的色彩设计工具](https://github.com/renjie1996/Maple-FrontEnd-Blog/issues/17)
 - <a href=""><img id="read" src="https://img.shields.io/badge/最佳实践-yellow.svg" alt="Build Status"></a> [Blob深入浅出](https://github.com/renjie1996/Maple-FrontEnd-Blog/issues/17)
+- <a href=""><img id="read" src="https://img.shields.io/badge/最佳实践-yellow.svg" alt="Build Status"></a> [我从《重构2》中的收获](https://github.com/renjie1996/Maple-FrontEnd-Blog/issues/17)
 
