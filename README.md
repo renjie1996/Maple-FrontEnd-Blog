@@ -20,12 +20,8 @@
  - <a href=""><img id="read" src="https://img.shields.io/badge/问题排查-red.svg" alt="Build Status"></a> [记一次git push故障的网络链路排查](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/10)
  - <a href=""><img id="read" src="https://img.shields.io/badge/代码质量-pink.svg" alt="Build Status"></a> [CodeReview-如何写出优雅的Vue.js代码（一）漂亮的data](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/11)
  - <a href=""><img id="read" src="https://img.shields.io/badge/黑魔法-black.svg" alt="Build Status"></a>  [CSS黑魔法-感知DOM resize的骚操作](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/12)
- - <a href=""><img id="read" src="https://img.shields.io/badge/性能优化-green.svg" alt="Build Status"></a> [Webpack性能优化最佳实践及多种选型的对比(writing..)](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/13)
+ - <a href=""><img id="read" src="https://img.shields.io/badge/性能优化-green.svg" alt="Build Status">
  - <a href=""><img id="read" src="https://img.shields.io/badge/最佳实践-yellow.svg" alt="Build Status"></a> [自动化部署实践-使用chai + mocha + karma + travis + codecov持续测试实践](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/14)
-  - <a href=""><img id="read" src="https://img.shields.io/badge/代码质量-pink.svg" alt="Build Status"></a> [Flow类型检查实践(writing...)](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/15)
-  - <a href=""><img id="read" src="https://img.shields.io/badge/最佳实践-yellow.svg" alt="Build Status"></a> [Node cluster 负载均衡实践(writing...)](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/16)
-  - <a href=""><img id="read" src="https://img.shields.io/badge/语言特性-orange.svg" alt="Build Status"></a> [函数柯里化(writing...)](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/16)
-   - <a href=""><img id="read" src="https://img.shields.io/badge/性能优化-green.svg" alt="Build Status"></a> [Web-Worker突破前端的高密集计算的性能瓶颈(writing...)](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/13)
    - <a href=""><img id="read" src="https://img.shields.io/badge/性能优化-green.svg" alt="Build Status"></a> [大数据场景下的虚拟列表优化(writing...)](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/13)
    - <a href=""><img id="read" src="https://img.shields.io/badge/体验优化-purple.svg" alt="Build Status"></a> [H5体验优化-不断打磨，实现一个完美的吸顶效果](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/13)
    - <a href=""><img id="read" src="https://img.shields.io/badge/个人-gray.svg" alt="Build Status"></a> [2018年度总结](https://github.com/renjie1996/Maple-FrontEnd-Blog/issues/16)
