@@ -20,7 +20,7 @@
  - <a href=""><img id="read" src="https://img.shields.io/badge/问题排查-red.svg" alt="Build Status"></a> [记一次git push故障的网络链路排查](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/10)
  - <a href=""><img id="read" src="https://img.shields.io/badge/黑魔法-black.svg" alt="Build Status"></a>  [CSS黑魔法-感知DOM resize的骚操作](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/12)
  - <a href=""><img id="read" src="https://img.shields.io/badge/最佳实践-yellow.svg" alt="Build Status"></a> [自动化部署实践-使用chai + mocha + karma + travis + codecov持续测试实践](https://github.com/renjie1996/Doger-FrontEnd-Blog/issues/14)
- - <a href=""><img id="read" src="https://img.shields.io/badge/个人-gray.svg" alt="Build Status"></a> [2018年度总结](https://github.com/renjie1996/Maple-FrontEnd-Blog/issues/16)
+
    
 ### 2019
 - <a href=""><img id="read" src="https://img.shields.io/badge/最佳实践-yellow.svg" alt="Build Status"></a> [React Hooks起手式 实现一个「高颜值实用」的色彩设计工具](https://github.com/renjie1996/Maple-FrontEnd-Blog/issues/17)
